@@ -70,7 +70,7 @@ game.RachelEntity = game.NPC.extend({
 
             game.modal = true;
 
-            me.game.viewport.fadeIn("black", 2000, function fadeInComplete() {
+            me.game.viewport.fadeIn("red", 2000, function fadeInComplete() {
                 me.audio.playTrack("random_and_cheap");
                 me.game.removeAll();
                 cm.removeAll();

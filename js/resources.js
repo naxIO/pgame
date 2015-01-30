@@ -203,13 +203,7 @@ game.story = {
         {
             "image" : null,
             "messages" : [
-                "Rachel ... Rachel? Is that you, Rachel?",
-                "It isn't your time yet ...",
-                "",
-                "You're going back, now, Rachel.",
-                "This will all seem like just a dream ...",
-                "Good luck, Rachel.",
-                "I love you ...",
+                "You died.",
                 "",
                 "Press [Enter] or [Space] to continue."
             ]
